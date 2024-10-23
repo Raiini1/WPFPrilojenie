@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2/JL6929nR8zjHCeHlalkv3rxx95nqtr26QtbLUlF2JHjbdlvRTB34Jn/1SXaD4V39Eo6PWssFWrZjxSuSh/5Q==",
+  "dgSpecHash": "uXY0OeK242rej93D/9L4jDOa5o86FvAM6eRw5Mqsa9yU9LuxVdcTrkiN/YYThK8p+LAf1L8Qkg4RkrrnEdWuew==",
   "success": true,
-  "projectFilePath": "E:\\практика\\практика 4 курс\\УП 03.01\\приложение\\Uchebnye_kursi\\Uchebnye_kursi\\Uchebnye_kursi.csproj",
+  "projectFilePath": "D:\\repos\\WPFPrilojenie\\Uchebnye_kursi\\Uchebnye_kursi\\Uchebnye_kursi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olesy\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\olesy\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

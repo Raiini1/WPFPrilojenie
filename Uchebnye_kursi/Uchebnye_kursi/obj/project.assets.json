@@ -1534,11 +1534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\практика\\практика 4 курс\\УП 03.01\\приложение\\Uchebnye_kursi\\Uchebnye_kursi\\Uchebnye_kursi.csproj",
+      "projectUniqueName": "D:\\repos\\WPFPrilojenie\\Uchebnye_kursi\\Uchebnye_kursi\\Uchebnye_kursi.csproj",
       "projectName": "Uchebnye_kursi",
-      "projectPath": "E:\\практика\\практика 4 курс\\УП 03.01\\приложение\\Uchebnye_kursi\\Uchebnye_kursi\\Uchebnye_kursi.csproj",
+      "projectPath": "D:\\repos\\WPFPrilojenie\\Uchebnye_kursi\\Uchebnye_kursi\\Uchebnye_kursi.csproj",
       "packagesPath": "C:\\Users\\olesy\\.nuget\\packages\\",
-      "outputPath": "E:\\практика\\практика 4 курс\\УП 03.01\\приложение\\Uchebnye_kursi\\Uchebnye_kursi\\obj\\",
+      "outputPath": "D:\\repos\\WPFPrilojenie\\Uchebnye_kursi\\Uchebnye_kursi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

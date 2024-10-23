@@ -4,8 +4,12 @@
         Title="Курсы" Height="250" Width="800" Icon="/иконка.ico"
     WindowStartupLocation="CenterScreen">
     <Grid Margin="0,0,-246,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="116*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
         <DataGrid x:Name="DataGridKurs" AutoGenerateColumns="False" HeadersVisibility="Column" 
-                  CanUserAddRows="False" Margin="113,12,256,11">
+                  CanUserAddRows="False" Margin="113,12,256,9">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="№" Binding="{Binding ID_Kurs}" Width="40"/>
                 <DataGridTextColumn Header="Название курса" Binding="{Binding Nazvanie_kursa}" Width="150"/>
@@ -22,5 +26,6 @@
         </DataGrid>
         <Image HorizontalAlignment="Left" Height="87" Margin="10,11,0,0" VerticalAlignment="Top" Width="87" Source="/user_add_icon_257914.png"/>
         <Label Content="Курсы" HorizontalAlignment="Left" Margin="24,95,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift Light SemiCondensed" FontSize="20"/>
+        <Button x:Name="ButtonSotrudniki" Content="Сотрудники" HorizontalAlignment="Left" Margin="10,134,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift Light SemiCondensed" FontSize="18"/>
     </Grid>
 </Window>
